@@ -12,8 +12,6 @@ Hello there! <br /> I'm Gabriel Couto de Almeida
 
 #### About me:
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="right" height="170" />
-
 <p align="left">
     <samp>
         💼 I’m currently working on AWS as Solutions Architect <br />
